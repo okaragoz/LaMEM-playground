@@ -1,11 +1,4 @@
 
-* Create & run LaMEM models from julia
-* Available functions
-
-* Available functions
-
-[GitHub](https://github.com/JuliaGeodynamics/LaMEM.jl "View the repository on GitHub")[](https://github.com/JuliaGeodynamics/LaMEM.jl/blob/main/docs/src/LaMEM_ModelFunctions.md "Edit source on GitHub")[](# "Settings")
-
 [List functions](#List-functions)[](#List-functions "Permalink")
 ================================================================
 
